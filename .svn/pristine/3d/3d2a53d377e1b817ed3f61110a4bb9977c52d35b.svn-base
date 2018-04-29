@@ -1,0 +1,2506 @@
+{
+  "image":false,
+  "image_format":"png",
+  "oriented":true,
+  "weight":true,
+
+
+  "graph":[{
+      "id": "Alcene",
+      "formule": "Formule Ici",
+      "data":"Description",
+      "linkto": [{
+          "id": "Alcane",
+          "reactifid": [
+            "H2",
+            " pt"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "H2 ",
+            " Pd/C"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "H2",
+            " Ni"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "H2",
+            "(PPh3)3RhCI"
+
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "N2H2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "B2H6",
+            "AcOH"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+
+        {
+          "id": "Syn Diol",
+          "reactifid": [
+            "KnO4",
+            "OH-"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Syn Diol",
+          "reactifid": [
+            "OsO4cat",
+            "H2O2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Syn Diol",
+          "reactifid": [
+            "OsO4cat",
+            " N-Methylmorpholine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Syn Diol",
+          "reactifid": [
+            "AgOAc",
+            " I2",
+            "H2O",
+            "AcOH",
+            "NaOH",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Anti Diol",
+          "reactifid": [
+            "PhCO2Ag",
+            " I2",
+            "Benzene",
+            "NaOH",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool tertiaire",
+          "reactifid": [
+            "Hg(OAc)2",
+            "H2O",
+            "NaBH4"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool tertiaire",
+          "reactifid": [
+            "H3O+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool primaire",
+          "reactifid": [
+            "B2H6",
+            "H2O2",
+            "NaOH"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool primaire",
+          "reactifid": [
+            "O3",
+            "H2",
+            "O2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool secondaire",
+          "reactifid": [
+            "O3",
+            "H2",
+            "O2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool allylique",
+          "reactifid": [
+            "Aldehyde",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Carboxylique",
+          "reactifid": [
+            "O3",
+            "H2O2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "O3",
+            "(CH3)2S",
+            "Zn"
+          ]
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "O3",
+            "(CH3)2S",
+            "Zn"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "O3",
+            "PPh3"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "O3",
+            "H2O2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Aldehyde",
+          "reactifid": [
+            "O3",
+            "PPh3"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "PdCl2",
+            " cat",
+            "CuCl",
+            "O2",
+            "DMF",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "KMnO4",
+            "H2O",
+            "AcOH"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Carboxylique",
+          "reactifid": [
+            "KMnO4",
+            "H2O",
+            "AcOH"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Carboxylique",
+          "reactifid": [
+            "O3",
+            "H2O2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+
+        {
+          "id": "Diels Alder",
+          "reactifid": [
+            "Diene"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Epoxyde",
+          "reactifid": [
+            "Peracide"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Epoxyde",
+          "reactifid": [
+            "MCPBA"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Bromohydrin",
+          "reactifid": [
+            "NBS",
+            "H2O",
+            "DMSO"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Halohydrin",
+          "reactifid": [
+            "OHX"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Halohydrin",
+          "reactifid": [
+            "X2",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Dihalogene Trans",
+          "reactifid": [
+            "X2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amide",
+          "reactifid": [
+            "RCN",
+            "H3O+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cyclopropane",
+          "reactifid": [
+            "CH2l2",
+            "Zn"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "Hg(OAc)2",
+            "ROH",
+            "NaBH4"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Imine",
+          "reactifid": [
+            "HN3",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Alcyne",
+      "formule": "",
+      "linkto": [{
+          "id": "Alcane",
+          "reactifid": [
+            "H2",
+            "Pt"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "H2",
+            "Pd/C"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "H2",
+            "Ni"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene",
+          "reactifid": [
+            "H2",
+            "Pd de Lindlard"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene",
+          "reactifid": [
+            "Alcene",
+            "H2",
+            "BaSO4"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene",
+          "reactifid": [
+            "2Na",
+            "NH3liq"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Carboxylique",
+          "reactifid": [
+            "O3",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Carboxylique",
+          "reactifid": [
+            "KMnO4",
+            "OH-",
+            "H3O+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Di Cetone",
+          "reactifid": [
+            "KMnO4",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "B2H6",
+            "H2O2",
+            "NaOH"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene vicinal Dihalogenure",
+          "reactifid": [
+            "X2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Tetrahalogenure",
+          "reactifid": [
+            "X2 exces"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Halogenure de vinyle",
+          "reactifid": [
+            "HX"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Dihalogenure geminal",
+          "reactifid": [
+            "HX exces"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Halogenure de vinyle",
+          "reactifid": [
+            "HX",
+            " ROOR"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Dihalogenure geminal",
+          "reactifid": [
+            "HX",
+            " ROOR"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Benzene",
+      "formule": "",
+      "linkto": [{
+          "id": "Alkylbenzene",
+          "reactifid": [
+            "RX",
+            "AlX3"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alkylbenzene",
+          "reactifid": [
+            "RX",
+            "FeX3"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alkylbenzene",
+          "reactifid": [
+            "Alcene",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide benzene sulfonique",
+          "reactifid": [
+            "SO3",
+            "H2SO4"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "1,4Cyclohexadiene",
+          "reactifid": [
+            "Na",
+            "NH3liq",
+            "ROH"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "1,4Cyclohexadiene",
+          "reactifid": [
+            "Li",
+            "NH3liq",
+            "ROH"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Halobenzene",
+          "reactifid": [
+            "X2",
+            "AlX3"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Halobenzene",
+          "reactifid": [
+            "X2",
+            "FeX3"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Nitrobenzene",
+          "reactifid": [
+            "HNO3",
+            "H2SO4"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Phenylcetone",
+          "reactifid": [
+            "Halogenure d'acyle",
+            "AlX3"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Phenylcetone",
+          "reactifid": [
+            "Halogenure d'acyle",
+            "FeX3"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Haloalcane",
+      "formule": "",
+      "linkto": [{
+          "id": "Alcane",
+          "reactifid": [
+            "H2",
+            "Pd"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "H2",
+            "Ni de Raney"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "LiAlH4"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "Zn",
+            "AcOH"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "Haloalcane",
+            "2Na"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amine Primaire",
+          "reactifid": [
+            "phtalimide",
+            "NH2NH2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Thiol",
+      "formule": "",
+      "linkto": [{
+          "id": "Disulfide",
+          "reactifid": [
+            "Thiol",
+            "I2",
+            "Fe III"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Disulfide",
+          "reactifid": [
+            "Thiol",
+            "H2O2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Sulfonique",
+          "reactifid": [
+            "HNO3"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Sulfonique",
+          "reactifid": [
+            "KMnO4"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Thioether",
+          "reactifid": [
+            "Haloalcane base"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Thiother",
+          "reactifid": [
+            "Alcene"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": " Thiother",
+          "reactifid": [
+            "Alcene",
+            "AIBN",
+            "hv"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Amine Primaire",
+      "formule": "",
+      "linkto": [{
+          "id": "Alcene",
+          "reactifid": [
+            "Mel",
+            "Ag2O ",
+            "H2O",
+            "chauffer"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amide",
+          "reactifid": [
+            "OH-",
+            "Halogenure d'acyle"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amine tertiaire",
+          "reactifid": [
+            "Formaldehyde Acide Formique"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Imine",
+          "reactifid": [
+            "Cetone",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Imine",
+          "reactifid": [
+            "Aldehyde",
+            "H+"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amine secondaire",
+          "reactifid": [
+            "Haloalcane"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Sel d'ammonium quaternaire",
+          "reactifid": [
+            "3Haloalcane"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Amine secondaire",
+      "formule": "",
+      "linkto": [{
+          "id": "Amide",
+          "reactifid": [
+            "Halogenure d'acyle",
+            "OH-"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amine tertiaire",
+          "reactifid": [
+            "Formaldehyle Acide Formique"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Enamine",
+          "reactifid": [
+            "Cetone",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Enamine",
+          "reactifid": [
+            "Aldehyde",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Nitrosamine",
+          "reactifid": [
+            "NaNO2",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Aldehyde",
+      "formule": "",
+      "linkto": [{
+          "id": "Alcool primaire",
+          "reactifid": [
+            "H2",
+            "Pt"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool primaire",
+          "reactifid": [
+            "H2",
+            "Pd"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool primaire",
+          "reactifid": [
+            "H2",
+            "Ni"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+
+        {
+          "id": "Alcool primaire",
+          "reactifid": [
+            "NaBH4",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool primaire",
+          "reactifid": [
+            "NaBH4",
+            "H3O+"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }, {
+          "id": "Alcool primaire",
+          "reactifid": [
+            "RMgX",
+            "H3O+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "H2N-NH2 base"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "Zn(Hg)",
+            "HCl"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene",
+          "reactifid": [
+            "Base H3C-PPh3"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amide",
+          "reactifid": [
+            "NH3",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Carboxylique",
+          "reactifid": [
+            "K2Cr2O7",
+            "H2O",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Carboxylique",
+          "reactifid": [
+            "CrO3",
+            "H2O",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cyanohydrine",
+          "reactifid": [
+            "HCN",
+            "NaCN",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cyanohydrine",
+          "reactifid": [
+            "HCN",
+            "KCNcat",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+
+        {
+          "id": "Diol geminal ",
+          "reactifid": [
+            "H2O",
+            "H+cat"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Enamide",
+          "reactifid": [
+            "R1-NH2-R2",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "peracide"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Al(OR)3"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Imine",
+          "reactifid": [
+            "R1NH3",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Nitrile",
+          "reactifid": [
+            "NH3",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Cetone",
+      "formule": "",
+      "linkto": [{
+          "id": "Alcool secondaire",
+          "reactifid": [
+            "H2",
+            "Pt"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool secondaire",
+          "reactifid": [
+            "H2",
+            "Pd"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool secondaire",
+          "reactifid": [
+            "H2",
+            "Ni"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool secondaire",
+          "reactifid": [
+            "NaBH4",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool secondaire",
+          "reactifid": [
+            "NaBH4",
+            "H3O+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool secondaire",
+          "reactifid": [
+            "RMgX",
+            "H3O+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool secondaire",
+          "reactifid": [
+            "RLi",
+            "H3O+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "H2N-NH2 base",
+            "chauffer"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "Zn(HG)",
+            "HCl"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene",
+          "reactifid": [
+            "Base H3C-PPh3"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amide",
+          "reactifid": [
+            "NH3",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Carboxylique",
+          "reactifid": [
+            "K2Cr2O7",
+            "H2O",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Carboxylique",
+          "reactifid": [
+            "CrO3",
+            "H2O",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cyanohydrine",
+          "reactifid": [
+            "HCN",
+            "NaCN",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cyanohydrine",
+          "reactifid": [
+            "HCN",
+            "KCNcat",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Diol geminal",
+          "reactifid": [
+            "H2O",
+            "H+cat"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Diol geminal",
+          "reactifid": [
+            "H2O",
+            "OH-"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Enamine",
+          "reactifid": [
+            "R1-NH2-R2",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Peracide"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Imine",
+          "reactifid": [
+            "R1NH3",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Nitrile",
+          "reactifid": [
+            "NH3",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Alcane",
+      "formule": "",
+      "linkto": [{
+          "id": "Alcool tertiaire",
+          "reactifid": [
+            "KNnO4",
+            "chauffer"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+
+        {
+          "id": "Hydroperoxide d'alkyle",
+          "reactifid": [
+            "O2",
+            "chauffer",
+            "cat"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "X2",
+            "hv"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+
+
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "X2",
+            "chauffer"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Nitroalcane",
+          "reactifid": [
+            "HNO3",
+            "chauffer"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Acide Sulfonique",
+          "reactifid": [
+            "H2SO4",
+            "chauffer"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Benzene",
+          "reactifid": [
+            "Pt",
+            "Al2O3",
+            "H2"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Alcool primaire",
+      "formule": "",
+      "linkto": [{
+          "id": "Aldehyde",
+          "reactifid": [
+            "CrO3.2Pyridine",
+            "CH2Cl2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Aldehyde",
+          "reactifid": [
+            "DMSO",
+            "(COCl)2",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Aldehyde",
+          "reactifid": [
+            "DMSO",
+            "DCC",
+            "H+",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Aldehyde",
+          "reactifid": [
+            "DMSO",
+            "SO3.Pyridine",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Aldehyde",
+          "reactifid": [
+            "DMSO",
+            "(COCl)2",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene",
+          "reactifid": [
+            "H+",
+            "chauffer"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene",
+          "reactifid": [
+            "POCl3",
+            "Pyridine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amide",
+          "reactifid": [
+            "RCN",
+            "H+",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Acide Carboxylique",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Chlorure D'acyle pyridine"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Anhydride pyridine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "H+",
+            "chauffer"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "Base RX"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "CH2N2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "Hg(OAc)2",
+            "Alcene",
+            "NaBH4"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "Epoxyde",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "HX"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "Ph3P",
+            "CX4"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "PH3P",
+            "X2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "PX3",
+            "Pyridine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "PX3",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "SOCl2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Imine",
+          "reactifid": [
+            "HN3",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Alcool secondaire",
+      "formule": "",
+      "linkto": [{
+          "id": "Cetone",
+          "reactifid": [
+            "CrO3.2Pyridine",
+            "CH2Cl2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "DMSO",
+            "(COCl)2",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "DMSO",
+            "DCC",
+            "H+",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "DMSO",
+            "SO3.Pyridine",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "DMSO",
+            "(COCl)2",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene",
+          "reactifid": [
+            "H+",
+            "chauffer"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene",
+          "reactifid": [
+            "POCl3",
+            "Pyridine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amide",
+          "reactifid": [
+            "RCN",
+            "H+",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Acide Carboxylique",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Chlorure D'acyle pyridine"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Anhydride pyridine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "H+",
+            "chauffer"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "Base RX"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "CH2N2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "Hg(OAc)2",
+            "Alcene",
+            "NaBH4"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "Epoxyde",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "HX"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "Ph3P",
+            "CX4"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "PH3P",
+            "X2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "PX3",
+            "Pyridine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "PX3",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "SOCl2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Imine",
+          "reactifid": [
+            "HN3",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+
+
+    {
+      "id": "Alcool secondaire",
+      "formule": "",
+      "linkto": [{
+          "id": "Alcene",
+          "reactifid": [
+            "H+",
+            "chauffer"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcene",
+          "reactifid": [
+            "POCl3",
+            "Pyridine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amide",
+          "reactifid": [
+            "RCN",
+            "H+",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Acide Carboxylique",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Chlorure D'acyle pyridine"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Anhydride pyridine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "H+",
+            "chauffer"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "Base RX"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "CH2N2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "Hg(OAc)2",
+            "Alcene",
+            "NaBH4"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ether",
+          "reactifid": [
+            "Epoxyde",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "HX"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "Ph3P",
+            "CX4"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "PH3P",
+            "X2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "PX3",
+            "Pyridine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "PX3",
+            "Et3N"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Haloalcane",
+          "reactifid": [
+            "SOCl2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Imine",
+          "reactifid": [
+            "HN3",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Acide Carobxylique",
+      "formule": "",
+      "linkto": [{
+          "id": "Chlorure D'acyle",
+          "reactifid": [
+            "SOCl2"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Chlorure D'acyle",
+          "reactifid": [
+            "PCl3"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Chlorure D'acyle",
+          "reactifid": [
+            "PCl5"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Chlorure D'acyle",
+          "reactifid": [
+            "(COCl)2",
+            "DMF"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool primaire",
+          "reactifid": [
+            "LiAlH4",
+            "H2O"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool primaire",
+          "reactifid": [
+            " H2",
+            "Ru/C"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool primaire",
+          "reactifid": [
+            "BH3",
+            "THF"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcool primaire",
+          "reactifid": [
+            "B2H6"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Alcane",
+          "reactifid": [
+            "chauffer"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amide",
+          "reactifid": [
+            "Amine primaire"
+
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Amide",
+          "reactifid": [
+            "Amine secondaire"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Anhydride",
+          "reactifid": [
+            "chauffer"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Anhydride",
+          "reactifid": [
+            "Chlorure D'acyle"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Alcool",
+            "H+"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "CH2N2",
+            "Pyridine"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Ester",
+          "reactifid": [
+            "Alcool",
+            "DCC",
+            "DMAP"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        },
+        {
+          "id": "Cetone",
+          "reactifid": [
+            "2RLi",
+            "H3O+",
+            "H2O"
+          ],
+          "data": "NULL",
+          "time": 0.2
+        }
+      ]
+    },
+
+
+
+    {
+      "id": "Alcool tertiaire",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Hydroperoxide d'alkyle",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Nitroalcane",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Acide Sulfonique",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Aldehyde",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Benzene",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Syn Diol",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Anti Diol",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+
+
+    {
+      "id": "Alcool allylique",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Acide Carboxylique",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Cetone",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Diels Alder",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Epoxyde",
+      "formule": "",
+      "linkto": []
+    },
+    {
+      "id": "Bromohydrin",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Halohydrin",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Dihalogene Trans",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Amide",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Cyclopropane",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Ether",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Imine",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+
+
+    {
+      "id": "Acide Carboxylique",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Di Cetone",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Cetone",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Alcene vicinal Dihalogenure",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Tetrahalogenure",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Halogenure de vinyle",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Dihalogenure geminal",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Halogenure de vinyle",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Alkylbenzene",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Acide benzene sulfonique",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "1,4Cyclohexadiene",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Halobenzene",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Phenylcetone",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Disulfide",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Acide Sulfonique",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Thioether",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Amide",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+
+    {
+      "id": "Sel d'ammonium quaternaire",
+      "formule": "",
+      "linkto": [
+
+      ]
+    },
+    {
+      "id": "Amine tertiaire",
+      "formule": "",
+      "linkto":
+
+
+        [
+
+        ]
+    },
+    {
+      "id": "Enamine",
+      "formule": "",
+      "linkto":
+
+
+
+        [
+
+
+        ]
+    },
+    {
+      "id": "Nitrosamine",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Amide",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Cyanohydrine",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Diol geminal",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Enamine",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Ester",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Imine",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Nitrile",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Aldehyde",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Ether",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Haloalcane",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Chlorure D'acyle",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Alcool primaire",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    },
+    {
+      "id": "Nitrile",
+      "formule": "",
+      "linkto":
+
+        [
+
+        ]
+    }
+  ]
+}

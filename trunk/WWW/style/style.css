@@ -1,0 +1,363 @@
+
+@font-face{
+  font-family : "maFonte";
+  src : url('../res/font.otf');
+}
+
+@-webkit-keyframes pandown_fade
+{
+  0% {
+    top : 100%;
+  }
+  100%{
+    top:0px;
+  }
+}
+
+.scroll_zone
+{
+  text-align: center;
+  font-family: "maFonte";
+  font-size : 90%;
+}
+
+
+input[type=file]
+{
+    display:block;
+    border: none;
+    color: white;
+    padding: 13px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "maFonte";
+    font-size: 16px;
+}
+
+input[type=submit]
+{
+    display:block;
+    background-color: rgba(25,25,25,1);
+    border: none;
+    color: white;
+    padding: 13px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "maFonte";
+    font-size: 16px;
+}
+
+input[type=submit]:hover
+{
+    background-color: rgba(25,25,25,0.8); /* Green */
+    border: none;
+    color: white;
+    padding: 13px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "maFonte";
+    font-size: 16px;
+}
+
+
+input[type=submit]:active
+{
+    background-color: rgba(25,25,25,0.5); /* Green */
+    border: none;
+    color: white;
+    padding: 13px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "maFonte";
+    font-size: 16px;
+}
+
+#cy {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index : -1;
+}
+
+
+.trajet > img
+{
+  height: 60px;
+  width: 60px;
+  max-height:60px;
+  max-width: 60px;
+  margin: 1%;
+  size:cover;
+  align: center;
+  object-fit: contain;
+}
+
+
+.caption
+{
+  display: block;
+}
+
+.trajet
+{
+  vertical-align: middle;
+  display: inline-block;
+  height: auto;
+  width: auto;
+  max-height: 70px;
+  margin: 2%;
+  size: cover;
+}
+
+
+body
+{
+  background-color: black;
+}
+
+@-webkit-keyframes search_bar_ani
+{
+  0% {
+    width:100px;
+  }
+  100% {
+    max-width: 350px;
+  }
+}
+
+input[type=text]
+{
+  position:absolute;
+  display:inline;
+  width: 100%;
+  margin : 10px;
+  padding: 7px 5px;
+  max-width:100px;
+  align: center;
+  border : 2px;
+  border-color:rgb(0,0,0);
+  box-sizing: border-box;
+  background-color: rgba(0,0,0,1);
+  font-family: "maFonte";
+  color : white;
+  border-radius : 4px;
+}
+
+
+input[type=text]:focus
+{
+  width: 95%;
+  max-width:350px;
+  margin-right: 10px;
+  border-color:rgb(60,60,60);
+
+  -webkit-animation-name: search_bar_ani;
+  -webkit-animation-duration: 0.5s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-timing-function: ease-out;
+
+}
+
+#menu
+{
+  position:absolute;
+  z-index:2;
+  top: 0px;
+  left : 0px;
+  width : 100%;
+  height:100%;
+
+  background-color: rgba(0,0,0,0.7);
+
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  -ms-backdrop-filter: blur(20px);
+  -moz-backdrop-filter: blur(20px);
+  -o-backdrop-filter: blur(20px);
+
+  -webkit-animation-name: pandown_fade;
+  -webkit-animation-duration: 0.5s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-timing-function: ease-out;
+}
+
+
+.close_button
+{
+  font-family: "maFonte";
+  color: white ;
+  font-size:25px;
+  position: absolute;
+  top : 10px;
+  left : 12px;
+  opacity: 1;
+}
+
+.close_button:hover
+{
+  opacity:0.7;
+}
+
+.close_button:active
+{
+  opacity:1;
+  color: grey;
+}
+
+
+.about_data
+{
+  position: absolute;
+  height:100%;
+  width:100%;
+  overflow-y: auto;
+  overflow-x: none;
+}
+
+
+
+
+box
+{
+  font-family: "maFonte";
+  position: fixed;
+  z-index:1;
+  top: 0px;
+  left: 0px;
+  height: 50px;
+  width: 100%;
+  background-color: rgba(20,20,20,0.6);
+
+  backdrop-filter: blur(20px);
+  --webkit-backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  -ms-backdrop-filter: blur(20px);
+  -moz-backdrop-filter: blur(20px);
+  -o-backdrop-filter: blur(20px);
+}
+
+
+
+#menu>box
+{
+  font-family: "maFonte";
+  position: absolute;
+  z-index:1;
+  top: 0px;
+  left: 0px;
+  height: 50px;
+  width: 100%;
+  background-color: rgba(20,20,20,0.6);
+
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  -ms-backdrop-filter: blur(20px);
+  -moz-backdrop-filter: blur(20px);
+  -o-backdrop-filter: blur(20px);
+}
+stdout
+{
+  vertical-align: middle;
+  scroll-behavior: auto;
+  overflow: auto;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  height: 125px;
+  width: 100%;
+  background-color: rgba(20,20,20,0.6);
+
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  -ms-backdrop-filter: blur(20px);
+  -moz-backdrop-filter: blur(20px);
+  -o-backdrop-filter: blur(20px);
+}
+
+#stdoutmain
+{
+  vertical-align: middle;
+  font-family : "maFonte";
+  font-size : 15px;
+  text-align:center;
+
+  color: white;
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0);
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-timing-function: linear;
+}
+
+#menu_icon
+{
+  height : 25px;
+  width : auto;
+  display: inline;
+  top:12px;
+  position : fixed;
+  right:12px;
+
+
+}
+
+#menu>#menu_icon
+{
+  height : 25px;
+  width : auto;
+  display: inline;
+  top:12px;
+  position : absolute;
+  right:12px;
+}
+
+@-webkit-keyframes fade
+{
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+h1
+{
+  position: absolute;
+  margin : 20px;
+  text-align: center;
+  font-size: 100% ;
+  font-family: "maFonte";
+  color: white ;
+
+}
+
+
+p
+{
+  position: static;
+  top: 20px;
+  text-align: center;
+  font-size: 100% ;
+  font-family: "maFonte";
+  color: white ;
+
+}
+
+.about_data>p
+{
+  position: relative;
+  top: 70px;
+  text-align: center;
+  font-size: 100% ;
+  font-family: "maFonte";
+  color: white ;
+
+}

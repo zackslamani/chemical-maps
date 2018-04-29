@@ -1,0 +1,23 @@
+CACHE MANIFEST
+# v.1.2
+
+CACHE:
+../style/style.css
+../javascript/cytoscape.js
+../javascript/main.js
+../javascript/toggle.js
+../About/index.html
+../res/information.png
+../res/icon.png
+../res/settings.png
+../res/startup-iphone.png
+../res/missing.png
+../res/font.otf
+../graphs/default/main.json
+
+
+NETWORK:
+*
+
+
+FALLBACK:

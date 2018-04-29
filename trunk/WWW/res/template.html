@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html manifest="res/cache.manifestds">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content = "width = device-width, initial-scale = 1.0, minimum-scale = 1, maximum-scale = 1, user-scalable = no" />
+    <meta name="apple-mobile-web-app-title" content="ChemicalMap" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <link rel="manifest" href="/res/android.json">
+    <link rel="apple-touch-startup-image" href="/res/startup-iphone.png">
+    <link rel="apple-touch-icon" sizes="512x512" href="/res/icon.png">
+    <link rel="apple-touch-startup-image" href="ipad-landscape-startup.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)" />
+    <link rel="apple-touch-startup-image" href="ipad-portrait-startup.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)" />
+    <title>Chemical Map</title>
+    <script src='javascript/cytoscape.js'></script>
+    <script src='javascript/toggle.js'></script>
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+  </head>
+  <body id="body">
+    <box>
+      <input id="search_bar" type="text" onkeyup="Highlights();" placeholder="Search ...">
+      <p style="vertical-align:middle">
+        Chemical Map
+      </p>
+      <img id="menu_icon" src ="res/settings.png" onclick="display_menu();" />
+    </box>
+    <div id="cy"></div>
+    <script src='javascript/main.js'></script>
+    <stdout>
+      <div id="stdoutmain"></div>
+    </stdout>
+    <div id=menu style="display:none">
+      <box>
+        <p>Menu</p>
+        <img id="menu_icon" src ="res/information.png" onclick = 'window.location.href = location.protocol + "//" + location.host + location.pathname+"About"'/>
+        <div class = "close_button" onClick='hide_menu();'>×</div>
+      </box>
+      <div class="about_data">
+        <GRAPH-LIST>
+    </div>
+  </body>
+</html>

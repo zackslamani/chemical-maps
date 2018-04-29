@@ -1,0 +1,14 @@
+{
+  "name": "ChemicalMap",
+  "icons": [
+    {
+      "src": "res/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "density": 1
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}

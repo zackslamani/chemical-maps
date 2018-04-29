@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html manifest="cache.manifest">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Chemical Map</title>
+    <link rel="stylesheet" type="text/css" href="../style/style.css">
+  </head>
+  <body>
+    <box>
+      <div class = "close_button" onClick='window.history.back();'>×</div>
+      <p>
+        Chemical Map : About
+      </p>
+
+    </box>
+    <div class="about_data">
+      <p style="margin-top:60px;margin-bottom:60px" >
+        Powered by:
+
+        <br><img src="../res/univ.png" style="height:50px;vertical-align:middle;"> Descartes University
+        <br>
+        <br>Project Manager:
+        <br>
+        <br>David JANISZEK
+        <br>Patricia BUSKA
+        <br>
+        <br>Chemist Analyst :
+        <br>
+        <br>Laetita LENIART
+        <br>Germain NORET
+        <br>
+        <br>Dev Team :
+        <br>
+        <br>Raphael ATTAL
+        <br>Hamza ZEROUALI
+        <br>Mohammed SLALIMI
+        <br>
+        <br>Based on Cytoscape.js API
+        <br>
+        <br>Logo and Icons provided by:
+        <br>FlatIcon
+      </p>
+    </div>
+
+    <stdout style="height:50px">
+      <div id="stdoutmain"></div>
+    </stdout>
+  </body>
+</html>
